@@ -5,7 +5,7 @@
 # Name: Lukeman Nana Yaw Quansah
 # STUDENT ID:  2425402655
 # Email: 2425402655@live.gctu.edu.gh
-# Grader: Augustus Buckman
+# Grader: Augustus Buckman.
 #
 # On my honor, Lukeman Nana Yaw Quansah, this programming assignment is my own work
 # and I have not provided this code to any other student.
